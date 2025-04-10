@@ -18,9 +18,9 @@ The `Dock` widget is a custom Flutter widget that displays a row of icons you ca
 
 ## Screenshot
 
-![Dock Screenshot on hover](https://manuelalex.github.io/dock_web/assets/dock_hover_pic.png)
+![Dock Screenshot on hover](assets/dock_drag_pic.png.png)
 
-![Dock Screenshot on drag](https://manuelalex.github.io/dock_web/assets/dock_drag_pic.png)
+![Dock Screenshot on drag](assets/dock_drag_pic.png)
 ## How It works
 
 > _Icons sit in a horizontal row. Hovering makes one rise slightly. Dragging one lifts it, and dropping it on another swaps them._
