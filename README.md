@@ -1,4 +1,4 @@
-# Dock: A Simple Drag & Hover Icon Row in Flutter mimicking the macos icons
+# Moving Dock: A Simple Drag & Hover Icon Row in Flutter mimicking the macos icons
 
 The `Dock` widget is a custom Flutter widget that displays a row of icons you can drag around and hover over. It’s built for fun and intuitive interaction — icons float up a bit when hovered and can be rearranged by dragging.
 
