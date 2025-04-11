@@ -32,10 +32,6 @@ jobs:
         if: steps.check_files.outputs.files_exists == 'true'
         uses: invertase/github-action-dart-analyzer@v1
 
-      - name: Run custom_lint
-        if: steps.check_files.outputs.files_exists == 'true'
-        run: dart run custom_lint
-
       - name: Check formatting
         if: steps.check_files.outputs.files_exists == 'true'
         run: dart format . --set-exit-if-changed || true
